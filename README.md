@@ -33,13 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/AbrarAhamed18/AbrarAhamed18/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/abrar-ahamed-bb7405219" target="_blank">
